@@ -54,7 +54,7 @@ instructions.
         """)
 
 img = Image.open("arduino.jpg")
-st.image(img, width=650) 
+st.image(img, width=450) 
 
 st.info("What we can do using Arduino?")
 st.write('''We can do so many things with arduino for example:\n
