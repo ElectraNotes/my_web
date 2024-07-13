@@ -1,7 +1,7 @@
 import streamlit as st 
 from PIL import Image
 
-img = Image.open("D:/my codes/python/modules/web development/logo.png")
+img = Image.open("logo.png")
 st.image(img, width=80) 
 st.title("Welcome to ElectraNotes")
 
@@ -53,7 +53,7 @@ can give some instructions to arduino and arduino performs operation according t
 instructions.
         """)
 
-img = Image.open("D:/my codes/python/modules/web development/arduino.jpg")
+img = Image.open("arduino.jpg")
 st.image(img, width=650) 
 
 st.info("What we can do using Arduino?")
