@@ -1,0 +1,17 @@
+               
+Details:
+                name: himanshu,
+                age: 28,
+                DOB: 2024-07-13,
+                Gender: male,
+                branch: ECE,
+                languages: ['C++', 'Python']
+                
+Details:
+                name: himanshu,
+                age: 28,
+                DOB: 2024-07-13,
+                Gender: male,
+                branch: ECE,
+                languages: ['C++', 'Python']
+                
